@@ -143,6 +143,12 @@ You should use Mod Organizer 2 to install it.
 |----------|----------|----------|----------|----------|
 | 1 | [Repopulated Creatures](https://www.nexusmods.com/morrowind/mods/55628) | Distributes select Tamriel Data creatures, undead, and Daedra to lore-appropriate locations around Vvardenfell via both leveled-lists and hand-placement. |  todo | todo |
 
+# Skyrim Home of the Nords
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 2 | [Signposts Replacer for Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/55656) | This mod retextures signposts for Skyrim Home of the Nords. | Not needed. | todo |
+
 # DLC sized mods
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
