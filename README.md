@@ -54,6 +54,7 @@ You should use Mod Organizer 2 to install it.
 | 19 | [Docks of Suran OAAB-ified](https://www.nexusmods.com/morrowind/mods/53222) | Patches Vallylilly's Docks of Suran to use OAAB assets and makes minor tweaks for better compatibility with Ashfall. Requires original mod. | todo 
 | todo |
 | 20 | [OAAB Huleen's Hut Overhaul](https://www.nexusmods.com/morrowind/mods/51458) | OAAB overhaul of Huleen's Hut, now with 100% more destroyed crates. If Listien survives he will now tidy up after the quest, and he will have some extra dialogue. | todo | todo |
+| 21 | [Snug Suran - OAAB Oran Manor Upgrade](https://www.nexusmods.com/morrowind/mods/53784) | Improves Oran Manor so it looks more like somewhere a noble might live. Comes with vanilla or white Suran versions. | todo | todo |
 
 # GUI / Interface / User Interface
 
@@ -62,6 +63,8 @@ You should use Mod Organizer 2 to install it.
 | 1 | [OpenHUD](https://www.nexusmods.com/morrowind/mods/48893) | Pluginless HUD replacer for OpenMW. | todo | todo |
 | 2 | [Lovely Loading Screens](https://www.nexusmods.com/morrowind/mods/42313) | 25 beautiful artistic splash screens for your Morrowind loading pleasure. | todo | todo |
 | 3 | [BuffTimers (For OpenMW)](https://www.nexusmods.com/morrowind/mods/55305) | Adds buff and debuff effect icons to UI which contain timers and dynamic effects for all spell effects. | todo | todo |
+| 4 | [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175#) | Works with OpenMW with following mods below. | todo | todo |
+
 
 
 # Magic / Spells
