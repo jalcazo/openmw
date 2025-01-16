@@ -27,12 +27,32 @@ You should use Mod Organizer 2 to install it.
 
 | Number | Mod |  Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Skyrim Style Bound Weapons](https://www.nexusmods.com/morrowind/mods/55219) | Replaces the bound weapon models with a more ghostly variant, inspired by the bound weapons in Skyrim. | todo | todo |
+
+# OAAB related mods
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042) | OAAB_Data is a free-to-use asset repository for the Morrowind Community. | todo | todo |
+| 2 | [https://www.nexusmods.com/morrowind/mods/46424]
+| 3 | [OAAB Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580) | Lore-friendly, atmospheric enhancements to many Balmora interiors, to reflect the personality and social status of their owners, make them feel lived in and in some cases, to give NPCs somewhere to sleep! Now with OAAB/TD. | todo | todo |
+| 4 | [OAAB Better Caldera Interiors](https://www.nexusmods.com/morrowind/mods/53229) | Improves most interiors in Caldera in a lore-friendly way using OAAB/TD assets. | todo | todo |
+| 5 | [OAAB Market](https://www.nexusmods.com/morrowind/mods/51687) | Overhauls the Sadrith Mora Market with assets from OAAB Data and Tamriel Rebuilt. Made for the Summer Modjam 2022. | todo | todo |
+| 6 | [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131) | A remake of tombs and velothi towers. | todo | todo |
+| 7 | [OAAB - Hawia Egg Mine](https://www.nexusmods.com/morrowind/mods/51846) | A remake of Hawia egg mine using OAAB assets. | todo | todo |
+| 8 | [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045) | This page will be used to upload minor mods which integrate content from OAAB_Data into the game by the OAAB team. | todo | todo |
+| 9 | [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177) | OAAB Tel Mora enhances the city of Tel Mora by adding new buildings, new quests, detailing the landscape, and more. It accomplishes all this while staying lore friendly and without (in my opinion) going over the top by making the city too big. | todo | todo | 
+| 10 | [OAAB Winged Twilight](https://www.nexusmods.com/morrowind/mods/51643) | Meet Ari-Ari, a Winged Twilight who will gladly accompany you on your adventures. Ari-Ari can be found in her house somewhere north of Telasero, the Dunmer Stronghold located to the east of Suran. The mod also features a visual overhaul of Azura’s Shrine using OAAB assets and a new daedric ruin. | todo | todo |
+| 11 | [OAAB Greater Samarys Tomb](https://www.nexusmods.com/morrowind/mods/52781) | This is a long overdue update to my Greater Samarys mod from 2016. Expands on the original mod, adds new encounters, fixes bugs, and adds a few other features. Now requires OAAB_Data. | todo | todo |
 
 # GUI / Interface / User Interface
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [OpenHUD](https://www.nexusmods.com/morrowind/mods/48893) | Pluginless HUD replacer for OpenMW. | todo | todo |
+| 2 | [Lovely Loading Screens](https://www.nexusmods.com/morrowind/mods/42313) | 25 beautiful artistic splash screens for your Morrowind loading pleasure. | todo | todo |
+| 3 | [BuffTimers (For OpenMW)](https://www.nexusmods.com/morrowind/mods/55305) | Adds buff and debuff effect icons to UI which contain timers and dynamic effects for all spell effects. | todo | todo |
+
 
 # Magic / Spells
 
@@ -147,6 +167,7 @@ You should use Mod Organizer 2 to install it.
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921) | 100+ quests, including new regional questlines for the Imperial Guilds, bounty hunting, and miscellaneous quests; 290+ exterior cells of hand-crafted landscape; 330+ interior cells, including the massive cities of Karthwasten and Dragonstar, towns, camps, and dozens of locations for you to loot in classic TES fashion. | todo | todo |
 | 2 | [Signposts Replacer for Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/55656) | This mod retextures signposts for Skyrim Home of the Nords. | Not needed. | todo |
 
 # DLC sized mods
