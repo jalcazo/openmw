@@ -105,36 +105,34 @@ You should use Mod Organizer 2 to install it.
 
 # NPC's
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Pandorable's NPCs (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/19012) (A visual overhaul of 85 female NPCs). | [Pandorable's NPCs - Spanish Translation (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101061) |
-
-<details><summary>Screenshots example (here you have Zaria and Aduri Sarethi). </summary> <img src="npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
-
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Items
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Expansions / DLC sized expansions
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Flora
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Animations
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Map
+
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -154,18 +152,21 @@ You should use Mod Organizer 2 to install it.
 
 # Immersion
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Base Object Swapper (BOS)
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 
 # Interiors
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 14 mods | | |
 
 # Audio / SFX / Sound / Soundtrack / Music
@@ -176,52 +177,62 @@ You should use Mod Organizer 2 to install it.
 
 # Character creation / presets / roleplaying / RPG
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Textures
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Forts
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Dungeons
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Grim and Gore
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Towers and Ruins
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Shrines and statues
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Collectibles
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 # Quests
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
  
 # Adult (NSFW)
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| Total in this category: | 14 mods | | | |
 
 <details><summary>Screenshots.</summary> <img src="preview/statuettes/5.jpg"/>  <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE2.jpg> <img src="adults/new_mara_statue_SE3.jpg> <img src="adults/new_mara_statue_SE4.jpg> <img src="adults/new_mara_statue_SE5.jpg> <img src="adults/new_mara_statue_SE6.jpg> <img src="adults/new_mara_statue_SE7.jpg> <img src="adults/new_mara_statue_SE8.jpg> <img src="adults/new_gray_fox_bust1.jpg"> <img src="adults/new_gray_fox_bust2.jpg"> <img src="adults/new_gray_fox_bust3.jpg"> <img src="adults/new_gray_fox_bust4.jpg"> <img src="adults/new_gray_fox_bust5.jpg"> <img src="adults/new_gray_fox_bust6.jpg"> <img src="adults/new_gray_fox_bust7.jpg"> <img src="adults/new_gray_fox_bust8.jpg"> <img src="adults/new_gray_fox_bust9.jpg"> </details>
