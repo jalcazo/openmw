@@ -11,11 +11,22 @@ You should use Mod Organizer 2 to install it.
 |----------|----------|----------|----------|
 | Total in this category: | 16 mods | | |
 
-# Fixes/helpers
+# Voices
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
-| Total in this category: | 21 mods | | |
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Demonic Voices Inside Your Head - Daedra Lords Redone](https://www.nexusmods.com/morrowind/mods/55136) | Haven't you ever heard Sheogorath or Mephala's voices in Morrowind and thought "well, that was underwhelming". No more! Now Mephala sounds seductive and Sheogorath sounds unhinged, as they should. Other voices are also included. | todo | todo |
+| 2 | [OpenMW Voices of Vvardenfell patch](https://www.nexusmods.com/morrowind/mods/54137) | NEW version for Full Working of Kezyma's Voices of Vvardenfell, all dialogue now playable. OpenMW 0.49 only. | todo | todo |
+| 3 | [Ashlander Voices](https://www.nexusmods.com/morrowind/mods/53863) | Adds 130 new voice greetings to the Ashlanders, made using ElevenAI. | todo | todo |
+| 4 | [Voices of Vvardenfell Unofficial Addon - The Wisest Women](https://www.nexusmods.com/morrowind/mods/52353) | Wise Women now voiced in HQ, based on Fallout 2's Village Elder, Fallout 3's Carol, Fallout 4's Holly, and... TBD. | todo | todo |
+| 5 | [Voices of Vvardenfell Unofficial Addon - Yagrum's Wisdom](https://www.nexusmods.com/morrowind/mods/52344) | Yagrum Bagarn now voiced in HQ, provided by the wonderful Ryan Cooper! | todo | todo |
+| 6 | [Voices of Vvardenfell Unofficial Addon - Talkative Telvanni](https://www.nexusmods.com/morrowind/mods/52343) | Davyth Fyr now 100% voiced in HQ, based on Teldryn Sero from Skyrim's Dragonborn DLC. | todo | todo |
+| 7 | [Voices of Vvardenfell Unofficial Addon - Vivec](https://www.nexusmods.com/morrowind/mods/52333) | Vivec now 100% voiced in HQ, based on Aradesh from Fallout. | todo | todo |
+| 8 | [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279) | A project to fully voice Morrowind using ElevenAI and MWSE. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no knowledge of scripting or the CS and no additional esp. | todo | todo |
+| 9 | [Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/51447) | Alters the majority of Morrowind's voice files to make the playable races, Daderic Princes, and unique NPCs sound more distinct. Includes plugins which add voices to Vivec & Yagrum Bagarn. | todo | todo |
+| 10 | [Tamriel Rebuilt Voices](https://www.nexusmods.com/morrowind/mods/54454) | The Tamriel Rebuilt Voices mod is here to enhance the immersive journey of the Tamriel Rebuilt mod for The Elder Scrolls III: Morrowind by providing voices to all NPCs on the mainland. | todo | todo |
+| 11 | [SuperQuail's Divine Voices](https://www.nexusmods.com/morrowind/mods/45643) | Reupload of SuperQuail's The Voice of God series -- all in one download. Includes a patch for Darknut's Greater Dwemer Ruins. | todo | todo |
+| Total in this category: | 4 mods | | |
 
 # Armor, armors
 
@@ -87,6 +98,8 @@ You should use Mod Organizer 2 to install it.
 | Number | Mod |  Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | Total in this category: | 4 mods | | |
+
+
 
 # Immersion
 
