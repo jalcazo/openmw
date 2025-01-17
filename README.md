@@ -41,6 +41,14 @@ You should use Mod Organizer 2 to install it.
 |----------|----------|----------|----------|----------|
 | 1 | [Skyrim Style Bound Weapons](https://www.nexusmods.com/morrowind/mods/55219) | Replaces the bound weapon models with a more ghostly variant, inspired by the bound weapons in Skyrim. | todo | todo |
 
+# Textures
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928) | Normal and Specular maps for Better Telvanni Crystal. | Not needed. | todo |
+| 2 | [Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/50818) | This is a replacer for crystals you can find in Telvanni buildings and some caves. | Not needed. | todo |
+| Total in this category: | 14 mods | | | |
+
 # OAAB related mods
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
@@ -67,6 +75,8 @@ You should use Mod Organizer 2 to install it.
 | todo |
 | 20 | [OAAB Huleen's Hut Overhaul](https://www.nexusmods.com/morrowind/mods/51458) | OAAB overhaul of Huleen's Hut, now with 100% more destroyed crates. If Listien survives he will now tidy up after the quest, and he will have some extra dialogue. | todo | todo |
 | 21 | [Snug Suran - OAAB Oran Manor Upgrade](https://www.nexusmods.com/morrowind/mods/53784) | Improves Oran Manor so it looks more like somewhere a noble might live. Comes with vanilla or white Suran versions. | todo | todo |
+| 22 | [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075) | This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue. | todo | todo |
+| Total in this category: | 22 mods | | | |
 
 # GUI / Interface / User Interface
 
@@ -230,12 +240,6 @@ You should use Mod Organizer 2 to install it.
 | Total in this category: | 14 mods | | | |
 
 # Character creation / presets / roleplaying / RPG
-
-| Number | Mod | Brief explanation | Spanish translation | Video review |
-|----------|----------|----------|----------|----------|
-| Total in this category: | 14 mods | | | |
-
-# Textures
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
